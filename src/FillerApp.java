@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+
+
+
 public class FillerApp {
 	BufferedImage image;
 	private static final int COLOR_DRAWN = 0xFFFFFFFF;
