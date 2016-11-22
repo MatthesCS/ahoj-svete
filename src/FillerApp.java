@@ -205,6 +205,7 @@ public class FillerApp {
 				int w, e;
 				points.add(x);
 				points.add(y);
+
 				for (int i = 0; i < points.size() - 1; i += 2) {
 					if (COLOR_SCREEN == image.getRGB(points.get(i),
 							points.get(i + 1))) {
